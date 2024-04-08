@@ -7,7 +7,7 @@ We are embarking on a unique integration of the OpenSRS API platform with an aim
 
 The Coldfusion OpenSRS API Domain availability lookup code is just a small piece. We are publishing it here for free for all to use without limitations, we just ask that you support this repository by sponsoring us by buying us a coffee.
 
-# Sponsor this project
+# <img src="https://github.com/images/modules/search/mona-love.png" alt="Sponsor"> Sponsor this project
 https://buymeacoffee.com/intervations
 
 By sponsoring this project, you help move it up our list of projects to do.
